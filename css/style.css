@@ -640,3 +640,15 @@
     border-color: #EEEEEE;
     color: var(--sprimary) !important;
 }
+
+.my-btn
+{
+    color: white;
+    background-color: var(--primary);
+}
+.my-btn:hover
+{
+    background-color: var(--sprimary);
+    border-color:var(--sprimary);
+    color: white;
+}
